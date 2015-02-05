@@ -2,6 +2,8 @@
 
 # objective is to create 4 graphs in one plot
 
+# code will run after unzipping data file into the working directory
+
 # due to large size of data file, contents were examined using:
 
 # grep("^2/2/2007", data[,1])  to determine which rows needed to be read
